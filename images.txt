@@ -5,3 +5,5 @@ nginx
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 node:20-alpine
+node:20
+node:20-slim
