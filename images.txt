@@ -4,6 +4,7 @@ nginx
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-node:20-alpine
-node:20
-node:20-slim
+#node:20-alpine
+#node:20
+#node:20-slim
+firecow/gitlab-ci-local-util:latest
