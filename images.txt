@@ -1,4 +1,4 @@
-nginx
+#nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
@@ -8,4 +8,5 @@ nginx
 #node:20
 #node:20-slim
 #firecow/gitlab-ci-local-util:latest
---platform=linux/arm64 gitlab/gitlab-runner:latest
+#--platform=linux/arm64 gitlab/gitlab-runner:latest
+cypress/browsers
