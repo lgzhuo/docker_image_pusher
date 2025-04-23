@@ -9,4 +9,5 @@
 #node:20-slim
 #firecow/gitlab-ci-local-util:latest
 #--platform=linux/arm64 gitlab/gitlab-runner:latest
-cypress/browsers
+#cypress/browsers
+--platform=linux/arm64 tooljet
