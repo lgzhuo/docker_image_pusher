@@ -11,4 +11,5 @@
 #--platform=linux/arm64 gitlab/gitlab-runner:latest
 #cypress/browsers
 #--platform=linux/arm64 tooljet
-nginx
+#nginx
+tooljet
