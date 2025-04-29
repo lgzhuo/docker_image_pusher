@@ -10,6 +10,5 @@
 #firecow/gitlab-ci-local-util:latest
 #--platform=linux/arm64 gitlab/gitlab-runner:latest
 #cypress/browsers
-#--platform=linux/arm64 tooljet
 #nginx
---platform=linux/arm64 tooljet/tooljet:ee-lts-latest
+tooljet/tooljet:ee-lts-latest
