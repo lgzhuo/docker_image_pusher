@@ -13,4 +13,5 @@
 #nginx
 #tooljet/tooljet:ee-lts-latest
 #tooljet/try:ee-lts-latest
---platform=linux/arm64 redis
+#--platform=linux/arm64 redis
+--platform=linux/arm64 postgres
