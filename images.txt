@@ -15,5 +15,6 @@
 #tooljet/try:ee-lts-latest
 #--platform=linux/arm64 redis
 #--platform=linux/arm64 postgres
-gradle:8.5-jdk17
-eclipse-temurin:17-jre-alpine
+#gradle:8.5-jdk17
+#eclipse-temurin:17-jre-alpine
+mysql:5.6
